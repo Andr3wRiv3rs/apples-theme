@@ -1,0 +1,22 @@
+{
+    "name": "apples-theme",
+    "displayName": "apples_theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "andrewarivers",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Apple's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Apple's Theme-color-theme.json"
+            }
+        ]
+    }
+}
